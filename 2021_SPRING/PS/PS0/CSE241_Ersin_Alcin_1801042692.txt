@@ -1,0 +1,4 @@
+Operating System: ubuntu 14.04 LTS
+Text Editor: Sublime text 3
+Compiler Version: gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.3) 
+
